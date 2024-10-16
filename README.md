@@ -81,6 +81,14 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![Screenshot 2024-10-16 071954](https://github.com/user-attachments/assets/9070beb1-1ba2-484a-bbfa-810645daf1a4)
 ![Screenshot 2024-10-16 072007](https://github.com/user-attachments/assets/bc973564-bd56-4d0d-a222-9ae590798ec9)
 ![Screenshot 2024-10-16 072019](https://github.com/user-attachments/assets/84a69f81-0059-47d1-9bbe-0b950509bb25)
+![Screenshot 2024-10-16 072702](https://github.com/user-attachments/assets/447b8302-5efe-46d3-88ca-008819725084)
+![Screenshot 2024-10-16 072722](https://github.com/user-attachments/assets/ad6298e1-34fd-4e6f-a23a-e073c2f8dc01)
+![Screenshot 2024-10-16 072733](https://github.com/user-attachments/assets/5ffa20e8-ebc0-45b4-acdb-5d8d7ea4adc2)
+![Screenshot 2024-10-16 072755](https://github.com/user-attachments/assets/4c34bae3-c18e-4477-8dc1-0dd333642382)
+
+
+
+
 
 
 ## Result:
